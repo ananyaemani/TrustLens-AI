@@ -1,0 +1,10 @@
+.env
+.env.txt
+__pycache__/
+build/
+dist/
+*.spec
+*.pyc
+*.exe
+test_env.py
+test_gemini.py
